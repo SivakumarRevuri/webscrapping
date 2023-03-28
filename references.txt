@@ -1,0 +1,8 @@
+Akrash: https://akarsh-ineuron-scrapper.herokuapp.com
+Bhanu:http://ineuronwebscrapper-env.eba-mfkx3pjg.ap-south-1.elasticbeanstalk.com/
+ganpat:https://ineuronscrapperganpat.herokuapp.com/
+Hemraj:https://ineuronwebscraping.herokuapp.com/
+Niladri:https://ineuronscraper.herokuapp.com
+satya:https://webscrapperuishowcase.herokuapp.com/
+sayan:https://ineuron-course-scrapper.herokuapp.com
+shivam:https://scrapper-task.azurewebsites.net/
