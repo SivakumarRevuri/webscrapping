@@ -1,0 +1,15 @@
+Web Scrapping:
+-------------
+	pre-requisites: python,
+
+Steps:
+	1. Setting up the environment
+		. libs need: requests, html5lib, bs4(beautiful soup)
+	2. Get the HTML
+	3. Parse the HTML
+		Once the HTML IS FETCHED USING REQUESts as an string, we need to parse it.
+		
+	4. HTML tree traversal
+		. Once the HTML is fetched and parsed, the next setp is to manipulate the tree using bs4 functions to get our job done.
+		. this tutorial will teach you how to get started and traverse the tree.
+	
