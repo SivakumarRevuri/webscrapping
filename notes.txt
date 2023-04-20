@@ -1,8 +1,11 @@
 Web Scrapping:
 -------------
-	pre-requisites: python,
+	pre-requisites: python, vscode
+	data mining, data harvesting
+	to gather the data over the internet.
 
 Steps:
+-----
 	1. Setting up the environment
 		. libs need: requests, html5lib, bs4(beautiful soup)
 	2. Get the HTML
@@ -12,4 +15,11 @@ Steps:
 	4. HTML tree traversal
 		. Once the HTML is fetched and parsed, the next setp is to manipulate the tree using bs4 functions to get our job done.
 		. this tutorial will teach you how to get started and traverse the tree.
-	
+
+
+If you want to scrape a website:
+		1. Use the API
+		2. HTML web scraping using some tools like bs4
+
+
+reference book: Web Scrapping with Python by Ryan Marshall
